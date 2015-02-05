@@ -10,4 +10,15 @@ A selectize.js implementation for KnockoutJS, including full options and event i
 
 ### Examples ###
 
-* [Default Usage](http://jsfiddle.net/n09h0da2/3/)
+* [Minimal Usage Demo](http://jsfiddle.net/n09h0da2/3/)
+
+##### Minimal Usage #####
+```
+<input 
+		data-bind="selectize: selectedOptions, tokenFieldRemote: '../remote/json/query'" 
+		type="text" 
+		id="tags1" 
+		name="tags1" 
+		value="_default" 
+		class="form-group" placeholder=""/>
+```
