@@ -1,7 +1,7 @@
 ko-selectize
 =====================
 
-A selectize.js KnockoutJS custom binding.
+A selectize.js implementation for KnockoutJS, including full options and event intergration and multiple custom binding for quick implementation into varies configurations.
 
 ### Links ###
 
